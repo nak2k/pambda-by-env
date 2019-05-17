@@ -7,7 +7,7 @@
     "url": "https://github.com/pambda/pambda-by-env/issues"
   },
   "dependencies": {
-    "pambda": "0.0.2"
+    "pambda": "^0.1.0"
   },
   "devDependencies": {},
   "homepage": "https://github.com/pambda/pambda-by-env",
