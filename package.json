@@ -1,6 +1,6 @@
 {
   "name": "pambda-by-env",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Switch by env Pambda",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
