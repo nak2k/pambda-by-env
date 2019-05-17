@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-npm i pambda-by-env -S
+npm i pambda-by-env
 ```
 
 ## Usage
